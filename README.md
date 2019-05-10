@@ -8,6 +8,6 @@ colors、material colors、light colors、dark colors、gradient colors、gradie
 
 horizon、vertical、left_slant、right_slant
 
-### generate colors by emotionnal words<support by tensorflow.js>:
+### generate colors by emotionnal words <support by tensorflow.js>:
 
 happy、blue
