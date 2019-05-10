@@ -7,3 +7,7 @@ colors、material colors、light colors、dark colors、gradient colors、gradie
 ### generate colors by image:
 
 horizon、vertical、left_slant、right_slant
+
+### generate colors by emotionnal words<support by tensorflow.js>:
+
+happy、blue
