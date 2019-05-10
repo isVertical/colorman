@@ -11,3 +11,7 @@ horizon、vertical、left_slant、right_slant
 ### generate colors by emotionnal words(support by tensorflow.js):
 
 happy、blue
+
+### transform color:
+
+transform color rgb、hexa、hsl
